@@ -109,14 +109,6 @@ Business Insights
 
 ---
 
-## 📸 Dashboard Preview
-
-<p align="center">
-<img src="Financial_Sales_Dashboard_PowerBI.png" width="100%">
-</p>
-
----
-
 ## 📂 Repository Structure
 
 ```text
